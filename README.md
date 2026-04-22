@@ -5,4 +5,6 @@ Algoritmo: Datos personales
 3. Escribir carrera: Ingieneria en sistemas
 4. Escribir edad: 17 años
 5. Escribir fecha: 21/04/2026
-6. Finalgoritmo
+6. pasatiempos: video juegos ciclismo
+7. metas: ser bueno en video juegos y ser un gran profesional
+fin
